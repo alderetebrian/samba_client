@@ -32,6 +32,8 @@ client = SMBClient(server_name='YOUR_SERVER_NAME',
                    username='YOUR_USERNAME',
                    password='YOUR_PASSWORD',
                    domain_name='YOUR_DOMAIN_NAME')
+```
+
 ### Listing Files
 
 ```python
