@@ -2,8 +2,6 @@
 
 A Python module providing a straightforward and intuitive interface for interacting with SMB shares, wrapping around the `smb.SMBConnection` class.
 
-![SMB Logo](link-to-smb-logo-if-you-have-one.png)
-
 ## 🚀 Features
 
 - 🧩 Object-oriented interface for SMB connections.
